@@ -1,6 +1,6 @@
 # Resumen del Caso Real: El Ciberataque a SolarWinds
 
-El ciberataque a SolarWinds, conocido como SUNBURST, es considerado uno de los incidentes de ciberseguridad más sofisticados y generalizados de la historia, afectando tanto al gobierno federal de Estados Unidos como a numerosas entidades del sector privado.
+En 2019, actores de amenaza vinculados al Estado ruso (APT29 / Cozy Bear) comprometieron el proceso de compilación de software de SolarWinds e inyectaron un backdoor (SUNBURST) en las actualizaciones de la plataforma Orion. Entre marzo y junio de 2020, aproximadamente 18.000 organizaciones descargaron la actualización maliciosa, incluyendo agencias del gobierno de EE.UU. (Departamento del Tesoro, CISA, DoD) y empresas privadas de sectores críticos como energía, salud y tecnología. El ataque permaneció activo sin detección durante aproximadamente 14 meses.
 
 ## Cronología de los hechos:
 

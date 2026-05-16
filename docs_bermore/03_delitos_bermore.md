@@ -27,15 +27,20 @@ Cuando el acceso se realiza con el ánimo de apoderarse o usar la información c
 #### Divulgación agravada:
 Si la misma persona que accede ilegítimamente también divulga la información, se aplica presidio menor en sus grados medio a máximo.
 
-Conducta en SUNBURST:
+#### Conducta en SUNBURST:
 
-Acceso ilegítimo inicial (septiembre 2019): Los atacantes ingresaron a la red de SolarWinds sin autorización.
+#### Acceso ilegítimo inicial (septiembre 2019): 
 
-Excedimiento de autorización: Al insertar código malicioso en la plataforma Orion, los atacantes excedieron groseramente cualquier autorización que hubieren podido tener.
+Los atacantes ingresaron a la red de SolarWinds sin autorización.
 
-Exfiltración de datos: Durante aproximadamente 9 meses, exfiltraron datos de clientes de alto valor (agencias gubernamentales estadounidenses, empresas Fortune 500) con ánimo de apoderarse de esa información.
+#### Excedimiento de autorización: 
+Al insertar código malicioso en la plataforma Orion, los atacantes excedieron groseramente cualquier autorización que hubieren podido tener.
 
-Encaje penal: Corresponde aplicar el tipo agravado (espionaje informático) del artículo 2, inciso segundo, porque el acceso se realizó con el ánimo de apoderarse y usar la información contenida en el sistema informático (pena de presidio menor en sus grados mínimo a medio). Si además se acredita que los mismos atacantes divulgaron la información, procedería la sanción más alta de presidio menor en sus grados medio a máximo.
+#### Exfiltración de datos:
+Durante aproximadamente 9 meses, exfiltraron datos de clientes de alto valor (agencias gubernamentales estadounidenses, empresas Fortune 500) con ánimo de apoderarse de esa información.
+
+#### Encaje penal:
+Corresponde aplicar el tipo agravado (espionaje informático) del artículo 2, inciso segundo, porque el acceso se realizó con el ánimo de apoderarse y usar la información contenida en el sistema informático (pena de presidio menor en sus grados mínimo a medio). Si además se acredita que los mismos atacantes divulgaron la información, procedería la sanción más alta de presidio menor en sus grados medio a máximo.
 
 ------------------------------------------------------------------------------------------------
 
